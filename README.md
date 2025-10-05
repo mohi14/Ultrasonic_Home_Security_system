@@ -1,4 +1,4 @@
-# 🛡️ Ultrasonic Home Security System (Cameran)
+# 🛡️ Ultrasonic Home Security System
 
 A simple Arduino-based home security alarm system using an ultrasonic sensor.  
 When an “intruder” is detected within a certain distance, the system triggers an alarm.  
@@ -47,4 +47,4 @@ You can disable the alarm by entering a valid passcode via buttons.
 
 ## ⚡ Circuit Diagram
 
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](images/circuit.jpeg)
